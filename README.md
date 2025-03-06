@@ -1,3 +1,7 @@
+This is a fork of proxyman that also sets/unsets proxy variables in your .xprofile. This allows for some software like Nextcloud or chromium
+to see system-wide proxy settings, whereas what the original proxyman does is not enough for some basic installations like my Arch Linux with
+xmonad and without any desktop manager.
+
 ## ProxyMan [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ```
